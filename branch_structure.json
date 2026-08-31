@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/error-handler-coverage-910",
+    "main",
+    "origin",
+    "test/expired-role-promotion-requests-job"
+  ],
+  "parent": {
+    "fix/error-handler-coverage-910": "main",
+    "main": null,
+    "origin": "main",
+    "test/expired-role-promotion-requests-job": "main"
+  },
+  "order": [
+    "main",
+    "fix/error-handler-coverage-910",
+    "origin",
+    "test/expired-role-promotion-requests-job"
+  ]
+}
